@@ -1,1 +1,76 @@
-
+{
+  "students": [
+    {
+      "student_name": "PARMAR DRAVID",
+      "student_mobile": "6353141147",
+      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "marks": 102,
+      "image_url": "",
+      "rank": 1
+    },
+    {
+      "student_name": "PARMAR DRAVID",
+      "student_mobile": "6353141147",
+      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "marks": 99,
+      "image_url": "",
+      "rank": 2
+    },
+    {
+      "student_name": "PARMAR DRAVID",
+      "student_mobile": "6353141147",
+      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "marks": 96,
+      "image_url": "DGGGGGGGGGGGGGGGGGGGGGFH",
+      "rank": 3
+    },
+    {
+      "student_name": "PARMAR DRAVID",
+      "student_mobile": "6353141147",
+      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "marks": 96,
+      "image_url": "FVVVVVVVVVVVVVVVVV",
+      "rank": 4
+    },
+    {
+      "student_name": "PARMAR DRAVID",
+      "student_mobile": "6353141147",
+      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "marks": 96,
+      "image_url": "",
+      "rank": 5
+    },
+    {
+      "student_name": "PARMAR DRAVID",
+      "student_mobile": "6353141147",
+      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "marks": 96,
+      "image_url": "",
+      "rank": 6
+    },
+    {
+      "student_name": "PARMAR DRAVID",
+      "student_mobile": "6353141147",
+      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "marks": 96,
+      "image_url": "",
+      "rank": 7
+    },
+    {
+      "student_name": "PARMAR DRAVID",
+      "student_mobile": "6353141147",
+      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "marks": 88,
+      "image_url": "",
+      "rank": 8
+    },
+    {
+      "student_name": "PARMAR DRAVID",
+      "student_mobile": "6353141147",
+      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "marks": 7,
+      "image_url": "",
+      "rank": 9
+    }
+  ]
+}
