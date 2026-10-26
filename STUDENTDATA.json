@@ -1,404 +1,396 @@
 {
   "students": [
     {
-      "student_name": "RANA VIPUL",
-      "student_mobile": "9728364510",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "student_name": "GOHIL KARTIK",
+      "student_mobile": "9037148265",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
       "marks": 99,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
+      "image_url": "https://drive.google.com/uc?export=download&id=1-svIAqS3kUucEh4x0f4ufCzY4wzfRTrI",
       "rank": 1
-    },
-    {
-      "student_name": "CHAUHAN VIVEK",
-      "student_mobile": "9726358140",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 98,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 2
-    },
-    {
-      "student_name": "PARMAR RAKESH",
-      "student_mobile": "7608142935",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 98,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 3
-    },
-    {
-      "student_name": "CHAUHAN ROHIT",
-      "student_mobile": "9724516385",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 97,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 4
-    },
-    {
-      "student_name": "VAGHELA ROHIT",
-      "student_mobile": "6354928170",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 97,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 5
-    },
-    {
-      "student_name": "PARMAR DRAVID",
-      "student_mobile": "6353141147",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 96,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 6
-    },
-    {
-      "student_name": "RATHOD MAHESH",
-      "student_mobile": "6357192846",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 96,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 7
-    },
-    {
-      "student_name": "SOLANKI NITIN",
-      "student_mobile": "9275148360",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 96,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 8
-    },
-    {
-      "student_name": "PARMAR NIKHIL",
-      "student_mobile": "7600124589",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 95,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 9
-    },
-    {
-      "student_name": "RATHOD BHARAT",
-      "student_mobile": "6352817364",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 95,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 10
-    },
-    {
-      "student_name": "SOLANKI BHAVIN",
-      "student_mobile": "9276814350",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 95,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 11
-    },
-    {
-      "student_name": "JADEJA MITUL",
-      "student_mobile": "9824136750",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 94,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 12
-    },
-    {
-      "student_name": "PATEL MAYUR",
-      "student_mobile": "9516382740",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 94,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 13
-    },
-    {
-      "student_name": "GOHIL AKASH",
-      "student_mobile": "9825413674",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 93,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 14
-    },
-    {
-      "student_name": "PARMAR JAYESH",
-      "student_mobile": "7603284195",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 93,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 15
-    },
-    {
-      "student_name": "VAGHELA PANKAJ",
-      "student_mobile": "6357194628",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 93,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 16
-    },
-    {
-      "student_name": "RANA JIGNESH",
-      "student_mobile": "6358472910",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 92,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 17
-    },
-    {
-      "student_name": "CHAUHAN DEEPAK",
-      "student_mobile": "8896321745",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 92,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 18
-    },
-    {
-      "student_name": "PATEL HARSH",
-      "student_mobile": "8899954423",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 91,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 19
-    },
-    {
-      "student_name": "CHAUHAN SACHIN",
-      "student_mobile": "8897412635",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 91,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 20
-    },
-    {
-      "student_name": "GOHIL JATIN",
-      "student_mobile": "9036182745",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 91,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 21
-    },
-    {
-      "student_name": "RATHOD HITESH",
-      "student_mobile": "6352819476",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 90,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 22
-    },
-    {
-      "student_name": "JADEJA DINESH",
-      "student_mobile": "9827416350",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 90,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 23
-    },
-    {
-      "student_name": "VAGHELA NIRAV",
-      "student_mobile": "9510473628",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 89,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 24
-    },
-    {
-      "student_name": "RANA HEMANT",
-      "student_mobile": "9725146380",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 89,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 25
-    },
-    {
-      "student_name": "RATHOD DILIP",
-      "student_mobile": "6359284170",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 89,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 26
-    },
-    {
-      "student_name": "RATHOD KUNAL",
-      "student_mobile": "9274511147",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 88,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 27
-    },
-    {
-      "student_name": "PATEL NILESH",
-      "student_mobile": "9512364780",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 88,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 28
-    },
-    {
-      "student_name": "CHAUHAN AMIT",
-      "student_mobile": "8897416253",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 88,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 29
     },
     {
       "student_name": "SOLANKI MANISH",
       "student_mobile": "9012345678",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 87,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 30
-    },
-    {
-      "student_name": "SOLANKI AKSHAY",
-      "student_mobile": "9274518360",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 87,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 31
-    },
-    {
-      "student_name": "JADEJA YASH",
-      "student_mobile": "6359147283",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 86,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 32
-    },
-    {
-      "student_name": "JADEJA KISHAN",
-      "student_mobile": "9826374510",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 86,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 33
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 98,
+      "image_url": "https://drive.google.com/uc?export=download&id=1pXJQwOmU-al7ltVspK_Lb83_bp153-6u",
+      "rank": 2
     },
     {
       "student_name": "JADEJA KIRAN",
       "student_mobile": "9825361740",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 86,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 34
-    },
-    {
-      "student_name": "VAGHELA KETAN",
-      "student_mobile": "9408127365",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 85,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 35
-    },
-    {
-      "student_name": "PARMAR KALPESH",
-      "student_mobile": "7604928135",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 85,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 36
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 98,
+      "image_url": "https://drive.google.com/uc?export=download&id=1wdWd9EI_4Zgp-NxLTSL_hozlq554osob",
+      "rank": 3
     },
     {
       "student_name": "SOLANKI JAY",
       "student_mobile": "6357284196",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 84,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 37
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 97,
+      "image_url": "",
+      "rank": 4
     },
     {
-      "student_name": "GOHIL KARTIK",
-      "student_mobile": "9037148265",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 84,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 38
+      "student_name": "RANA HEMANT",
+      "student_mobile": "9725146380",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 97,
+      "image_url": "",
+      "rank": 5
     },
     {
-      "student_name": "SOLANKI RAVI",
-      "student_mobile": "9276384510",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 83,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 39
-    },
-    {
-      "student_name": "PATEL HIMANSHU",
-      "student_mobile": "9514726380",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 83,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 40
-    },
-    {
-      "student_name": "PATEL DHIRAJ",
-      "student_mobile": "9876543210",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 82,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 41
+      "student_name": "PATEL NILESH",
+      "student_mobile": "9512364780",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 96,
+      "image_url": "",
+      "rank": 6
     },
     {
       "student_name": "RATHOD VISHAL",
       "student_mobile": "6358274190",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 82,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 42
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 96,
+      "image_url": "",
+      "rank": 7
     },
     {
-      "student_name": "PARMAR BHAVESH",
-      "student_mobile": "7601458923",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 81,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 43
-    },
-    {
-      "student_name": "CHAUHAN NARESH",
-      "student_mobile": "8895147263",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 81,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 44
+      "student_name": "VAGHELA NIRAV",
+      "student_mobile": "9510473628",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 95,
+      "image_url": "",
+      "rank": 8
     },
     {
       "student_name": "PATEL RONAK",
       "student_mobile": "9518742630",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 80,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 45
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 95,
+      "image_url": "",
+      "rank": 9
+    },
+    {
+      "student_name": "RATHOD DILIP",
+      "student_mobile": "6359284170",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 95,
+      "image_url": "",
+      "rank": 10
+    },
+    {
+      "student_name": "CHAUHAN NARESH",
+      "student_mobile": "8895147263",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 95,
+      "image_url": "",
+      "rank": 11
+    },
+    {
+      "student_name": "VAGHELA KETAN",
+      "student_mobile": "9408127365",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 94,
+      "image_url": "",
+      "rank": 12
+    },
+    {
+      "student_name": "PARMAR KALPESH",
+      "student_mobile": "7604928135",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 94,
+      "image_url": "",
+      "rank": 13
     },
     {
       "student_name": "RANA DHAVAL",
       "student_mobile": "9033127458",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 79,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 46
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 93,
+      "image_url": "",
+      "rank": 14
+    },
+    {
+      "student_name": "JADEJA KISHAN",
+      "student_mobile": "9826374510",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 93,
+      "image_url": "",
+      "rank": 15
     },
     {
       "student_name": "RANA SANJAY",
       "student_mobile": "9724518360",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 79,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 47
-    },
-    {
-      "student_name": "GOHIL PRATIK",
-      "student_mobile": "9038261745",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 78,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 48
-    },
-    {
-      "student_name": "VAGHELA HARDIK",
-      "student_mobile": "6359182740",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
-      "marks": 77,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 49
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 93,
+      "image_url": "",
+      "rank": 16
     },
     {
       "student_name": "GOHIL RAHUL",
       "student_mobile": "8866124579",
-      "course_name": "GETCO ELECTRICAL ASISTANT",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 92,
+      "image_url": "",
+      "rank": 17
+    },
+    {
+      "student_name": "SOLANKI AKSHAY",
+      "student_mobile": "9274518360",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 92,
+      "image_url": "",
+      "rank": 18
+    },
+    {
+      "student_name": "RATHOD KUNAL",
+      "student_mobile": "9274511147",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 91,
+      "image_url": "",
+      "rank": 19
+    },
+    {
+      "student_name": "SOLANKI RAVI",
+      "student_mobile": "9276384510",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 91,
+      "image_url": "",
+      "rank": 20
+    },
+    {
+      "student_name": "CHAUHAN AMIT",
+      "student_mobile": "8897416253",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 91,
+      "image_url": "",
+      "rank": 21
+    },
+    {
+      "student_name": "PATEL DHIRAJ",
+      "student_mobile": "9876543210",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 90,
+      "image_url": "",
+      "rank": 22
+    },
+    {
+      "student_name": "VAGHELA HARDIK",
+      "student_mobile": "6359182740",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 90,
+      "image_url": "",
+      "rank": 23
+    },
+    {
+      "student_name": "JADEJA YASH",
+      "student_mobile": "6359147283",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 89,
+      "image_url": "",
+      "rank": 24
+    },
+    {
+      "student_name": "GOHIL PRATIK",
+      "student_mobile": "9038261745",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 89,
+      "image_url": "",
+      "rank": 25
+    },
+    {
+      "student_name": "PATEL HIMANSHU",
+      "student_mobile": "9514726380",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 89,
+      "image_url": "",
+      "rank": 26
+    },
+    {
+      "student_name": "PARMAR BHAVESH",
+      "student_mobile": "7601458923",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 88,
+      "image_url": "",
+      "rank": 27
+    },
+    {
+      "student_name": "SOLANKI NITIN",
+      "student_mobile": "9275148360",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 88,
+      "image_url": "",
+      "rank": 28
+    },
+    {
+      "student_name": "RATHOD HITESH",
+      "student_mobile": "6352819476",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 87,
+      "image_url": "",
+      "rank": 29
+    },
+    {
+      "student_name": "RATHOD BHARAT",
+      "student_mobile": "6352817364",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 87,
+      "image_url": "",
+      "rank": 30
+    },
+    {
+      "student_name": "GOHIL AKASH",
+      "student_mobile": "9825413674",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 86,
+      "image_url": "",
+      "rank": 31
+    },
+    {
+      "student_name": "VAGHELA ROHIT",
+      "student_mobile": "6354928170",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 86,
+      "image_url": "",
+      "rank": 32
+    },
+    {
+      "student_name": "VAGHELA PANKAJ",
+      "student_mobile": "6357194628",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 86,
+      "image_url": "",
+      "rank": 33
+    },
+    {
+      "student_name": "RANA JIGNESH",
+      "student_mobile": "6358472910",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 85,
+      "image_url": "",
+      "rank": 34
+    },
+    {
+      "student_name": "JADEJA DINESH",
+      "student_mobile": "9827416350",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 85,
+      "image_url": "",
+      "rank": 35
+    },
+    {
+      "student_name": "PATEL HARSH",
+      "student_mobile": "8899954423",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 84,
+      "image_url": "",
+      "rank": 36
+    },
+    {
+      "student_name": "CHAUHAN DEEPAK",
+      "student_mobile": "8896321745",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 84,
+      "image_url": "",
+      "rank": 37
+    },
+    {
+      "student_name": "RATHOD MAHESH",
+      "student_mobile": "6357192846",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 83,
+      "image_url": "",
+      "rank": 38
+    },
+    {
+      "student_name": "PARMAR RAKESH",
+      "student_mobile": "7608142935",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 83,
+      "image_url": "",
+      "rank": 39
+    },
+    {
+      "student_name": "PARMAR NIKHIL",
+      "student_mobile": "7600124589",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 82,
+      "image_url": "",
+      "rank": 40
+    },
+    {
+      "student_name": "PATEL MAYUR",
+      "student_mobile": "9516382740",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 82,
+      "image_url": "",
+      "rank": 41
+    },
+    {
+      "student_name": "JADEJA MITUL",
+      "student_mobile": "9824136750",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 81,
+      "image_url": "",
+      "rank": 42
+    },
+    {
+      "student_name": "SOLANKI BHAVIN",
+      "student_mobile": "9276814350",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 81,
+      "image_url": "",
+      "rank": 43
+    },
+    {
+      "student_name": "PARMAR JAYESH",
+      "student_mobile": "7603284195",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 80,
+      "image_url": "",
+      "rank": 44
+    },
+    {
+      "student_name": "CHAUHAN ROHIT",
+      "student_mobile": "9724516385",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 79,
+      "image_url": "",
+      "rank": 45
+    },
+    {
+      "student_name": "GOHIL JATIN",
+      "student_mobile": "9036182745",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 79,
+      "image_url": "",
+      "rank": 46
+    },
+    {
+      "student_name": "CHAUHAN SACHIN",
+      "student_mobile": "8897412635",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 78,
+      "image_url": "",
+      "rank": 47
+    },
+    {
+      "student_name": "RANA VIPUL",
+      "student_mobile": "9728364510",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
+      "marks": 77,
+      "image_url": "",
+      "rank": 48
+    },
+    {
+      "student_name": "CHAUHAN VIVEK",
+      "student_mobile": "9726358140",
+      "course_name": "MGVCL ELECTRICAL ASISTANT",
       "marks": 76,
-      "image_url": "https://raw.githubusercontent.com/Dravid4/Dravid4/refs/heads/main/F4NGwMAbaPqXMcsgEu4K.png",
-      "rank": 50
+      "image_url": "",
+      "rank": 49
     }
   ]
 }
