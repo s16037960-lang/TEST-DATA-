@@ -1,52 +1,44 @@
 {
   "students": [
     {
-      "student_name": "VAGHELA PARESH",
-      "student_mobile": "6354895574",
+      "student_name": "dhaval sondarva",
+      "student_mobile": "8799267697",
       "course_name": "ELECTRICAL ASISTANT BRAMHASTRA BATCH",
-      "marks": 30,
-      "image_url": "https://drive.google.com/uc?export=download&id=19I_uZ9n9iafcKkk1LNI3zN_ETAawA8mE",
+      "marks": 27,
+      "image_url": "https://drive.google.com/uc?export=download&id=1nnjlW1BzNX796Sa2PHVJO20zkYK9IH1m",
       "rank": 1
-    },
-    {
-      "student_name": "Parmar parthkumar",
-      "student_mobile": "9016474450",
-      "course_name": "ELECTRICAL ASISTANT BRAMHASTRA BATCH",
-      "marks": 24,
-      "image_url": "https://drive.google.com/uc?export=download&id=1GAQlk4cHI14I1jVc_Ohv6YZ8WDNSNhNA",
-      "rank": 2
-    },
-    {
-      "student_name": "Rajendra Bariya",
-      "student_mobile": "9328948922",
-      "course_name": "ELECTRICAL ASISTANT BRAMHASTRA BATCH",
-      "marks": 23,
-      "image_url": "https://drive.google.com/uc?export=download&id=1hSQYxh7zJNwfnNYZPakpbilqp4uvDJ3Q",
-      "rank": 3
     },
     {
       "student_name": "dharmesh solanki",
       "student_mobile": "7405408254",
       "course_name": "ELECTRICAL ASISTANT BRAMHASTRA BATCH",
-      "marks": 19,
+      "marks": 23,
       "image_url": "https://drive.google.com/uc?export=download&id=10b5L8v1odAZk3noLCfa43W4jkfn64Ftc",
-      "rank": 4
-    },
-    {
-      "student_name": "Vipulbhai kalabhai Ninama",
-      "student_mobile": "8469654718",
-      "course_name": "ELECTRICAL ASISTANT BRAMHASTRA BATCH",
-      "marks": 11,
-      "image_url": "https://drive.google.com/uc?export=download&id=1iJmoLE1Stx0k0RH-rscWiQlukk1sqUW3",
-      "rank": 5
+      "rank": 2
     },
     {
       "student_name": "Hardik Babariya",
       "student_mobile": "7228872016",
       "course_name": "ELECTRICAL ASISTANT BRAMHASTRA BATCH",
-      "marks": 10,
+      "marks": 22,
       "image_url": "https://drive.google.com/uc?export=download&id=1xpOq-bgrkev8qSY8ZvH0cNp18F3jqbrf",
-      "rank": 6
+      "rank": 3
+    },
+    {
+      "student_name": "Vipulbhai kalabhai Ninama",
+      "student_mobile": "8469654718",
+      "course_name": "ELECTRICAL ASISTANT BRAMHASTRA BATCH",
+      "marks": 13,
+      "image_url": "https://drive.google.com/uc?export=download&id=1iJmoLE1Stx0k0RH-rscWiQlukk1sqUW3",
+      "rank": 4
+    },
+    {
+      "student_name": "damor sunilkumar pareshbhai",
+      "student_mobile": "9904477814",
+      "course_name": "ELECTRICAL ASISTANT BRAMHASTRA BATCH",
+      "marks": 12,
+      "image_url": "https://drive.google.com/uc?export=download&id=1ooMJeTVJeHQ4XLYY7zhShuAD-oY8GrSt",
+      "rank": 5
     }
   ]
 }
